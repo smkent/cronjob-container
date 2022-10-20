@@ -7,7 +7,7 @@
       "author_email": "smkent@smkent.net",
       "author_name": "Stephen Kent",
       "github_user": "smkent",
-      "project_description": "Container to configure an arbitrary cronjob",
+      "project_description": "Conveniently run a single cron job in a container",
       "project_license": "MIT",
       "project_name": "cronjob-container"
     }
